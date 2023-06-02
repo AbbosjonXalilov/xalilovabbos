@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Ribeye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+
+*{
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #2C2C2C;
+    max-width: 1600px;
+    height: 850px;
+}
+header nav .bir{
+    margin-top: 50px;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: 'Ribeye';
+}
+header nav{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+header nav ul{
+    display: flex;
+    margin-top: 50px;
+}
+header nav ul li a{
+    font-weight: 300;
+    font-size: 20px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: white;
+}
+
+header .main_menu{
+    display: flex;
+    max-width: 1300px;
+    margin: auto;
+    justify-content: space-around;
+}
+header h1{
+    color: white;
+}
+header .main_menu .menu{
+    display: flex;
+
+    margin-top: 200px;
+    justify-content: space-around;
+}
+header .main_menu img{
+    max-width: 400px;
+    height: 400px;
+    margin-top: 180px;
+    border-radius: 200px;
+}
+header span{
+    font-weight: 700;
+    font-size: 72px;    
+}
+header .menu button{
+    background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+    box-shadow: 0px 2px 13px rgba(226, 158, 0, 0.48);
+    border-radius: 6px; 
+    border: none;
+    width: 200px;
+    height: 47px;
+    font-weight: 700;
+    font-size: 18px;           
+}
+main .menu{
+    background-color: #414141;
+    
+}
+main .main_img{
+    display: flex;
+    justify-content: space-around;    
+    padding-top: 50px;
+    align-items: center;
+    color: #E4E4E4;
+}
+.orqa_fon{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+main .main_img h1{
+    color: #00C4F0;
+}
+.rasm_{
+    display: flex;
+
+    margin: auto;
+    justify-content: center;
+    background-color: #414141;
+}
+.rasm_ .top{
+    margin-top: 100px;
+}
+.rasm img{   
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.top1{
+    background-color: #2C2C2C;
+    width: 310px;
+    height: 485px;
+    border-radius: 14px; 
+    margin-top: 300px;
+    width: 287px;
+    height: 427px;
+}
+.top2{
+    background-color: #2C2C2C;
+    width: 307px;
+    height: 339px;
+    border-radius: 14px; 
+    margin-top: 80px;
+    width: 272px;
+    height: 270px;
+}
+.top3{
+    background-color: #2C2C2C;
+    width: 330px;
+    height: 378px;
+    border-radius: 14px; 
+    margin-top: 50px;
+    width: 300px;
+    height: 320px;
+}
+.rasm p{
+    color: white;
+    background-color: #2C2C2C;
+    width: 300px;
+    height: 570px;
+    text-align: center;
+    border-radius: 14px;
+}
+.rasm h1{
+    color: white;
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 54px;    
+}
+.salom{
+    background-color: #2C2C2C;
+    height: 600px;
+    width: 1519px;
+    padding-top: 50px;
+}
+.salom h1{
+    text-align: center;
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 54px; 
+    color: white;   
+}
+.salom .blok1{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    color: white;
+    background-color: #414141;
+    width: 970px;
+    margin-top: 20px;
+    height: 450px;
+    border-radius: 29px;
+}
+.salom .blok1 img{
+    width: 500px;
+    height: 400px;
+    margin-top: 25px;  
+    border-radius: 29px;  
+}
+.salom .blok1 p{
+    margin-top: 40px;
+    text-align: center;
+}
+.blok1 span{
+    color: #E29500;
+}
+.like .unlike .bir{
+    margin-top: 50px;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: 'Ribeye';
+}
+.like{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    height: 238px;
+    background-color: #414141;
+    color: white;
+}
